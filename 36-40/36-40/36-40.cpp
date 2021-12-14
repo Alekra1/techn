@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <Windows.h>
-//#include <stdlib.h>
+#include <stdlib.h>
 
 using std::endl;
 using std::cin;
