@@ -17,6 +17,7 @@ struct games {
 
 int main() {
 	int ans, wh(1);
+	cout << "Hello GIT!!!";
 start:
 	while (wh) {
 		cout << endl << "1 - Write 2 - Read: ";
