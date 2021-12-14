@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <Windows.h>
-#include <stdlib.h>
+//#include <stdlib.h>
 
 using std::endl;
 using std::cin;
@@ -17,8 +17,6 @@ struct games {
 
 int main() {
 	int ans, wh(1);
-	cout << "Hello GIT!!!";
-	cout << endl << "Omg!!, it works???";
 start:
 	while (wh) {
 		cout << endl << "1 - Write 2 - Read: ";
